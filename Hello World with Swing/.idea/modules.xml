@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/HelloWorl.iml" filepath="$PROJECT_DIR$/HelloWorl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hello World with Swing.iml" filepath="$PROJECT_DIR$/Hello World with Swing.iml" />
     </modules>
   </component>
 </project>

@@ -1,24 +1,35 @@
-# Compiled class file
-*.class
+# IntelliJ IDEA specific files
+**/.idea/
+!**/.idea/copyright/templates # Optional: Exclude copyright header templates if needed
+!**/.idea/encodings.xml # Optional: Exclude custom encodings configuration if needed
 
-# Log file
+# Class files
+**/bin/
+**/classes/
+
+# Generated files (by build tools)
+**/target/
+**/pom.xml.lock
+
+# OS specific temporary files
+*.swp
 *.log
+*.pid
 
-# BlueJ files
-*.ctxt
+# Text editor backups
+*.bak
+*~
 
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
+# Local configuration files
+# (add specific config files for IntelliJ IDEA here)
+idea.properties
 
-# Package Files #
-*.jar
-*.war
-*.nar
-*.ear
-*.zip
-*.tar.gz
-*.rar
+# Compiled Swing form files
+# (if you use a Swing form builder)
+**/form/*.form
 
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
-replay_pid*
+# Documentation
+**/javadoc/
+
+# Test reports
+**/test-reports/
