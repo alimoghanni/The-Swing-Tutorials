@@ -1,0 +1,18 @@
+Compile the Java Files:
+
+javac -d "out/production/Implementing Update and Delete Operations" -cp "sqlite-jdbc-3.46.0.0.jar;slf4j-api-1.7.36.jar;slf4j-simple-1.7.36.jar" src/DatabaseHelper.java src/UserManagementApp.java
+
+
+Run the Compiled Class:
+
+java -cp "out/production/Implementing Update and Delete Operations;sqlite-jdbc-3.46.0.0.jar;slf4j-api-1.7.36.jar;slf4j-simple-1.7.36.jar" UserManagementApp
+
+
+Verify the Output:
+
+1   John Doe   john.doe@example.com
+2   Jane Smith jane.smith@example.com
+
+
+
+

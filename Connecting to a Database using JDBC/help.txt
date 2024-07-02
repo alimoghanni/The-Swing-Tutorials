@@ -1,0 +1,18 @@
+Compile the Java Files:
+
+javac -d "out/production/Connecting to a Database using JDBC" -cp "sqlite-jdbc-3.46.0.0.jar;slf4j-api-1.7.36.jar;slf4j-simple-1.7.36.jar" src/DatabaseHelper.java src/JDBCExample.java
+
+
+Run the Compiled Class:
+
+java -cp "out/production/Connecting to a Database using JDBC;sqlite-jdbc-3.46.0.0.jar;slf4j-api-1.7.36.jar;slf4j-simple-1.7.36.jar" JDBCExample
+
+
+Verify the Output:
+
+1   John Doe   john.doe@example.com
+2   Jane Smith jane.smith@example.com
+
+
+
+
