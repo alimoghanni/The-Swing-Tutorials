@@ -20,3 +20,8 @@ In this lesson, you will learn how to add basic Swing components such as buttons
 ### Lesson 4: Event Handling in Swing
 #### Explanation
 In this lesson, you will learn how to handle events in Swing. Event handling allows your application to respond to user interactions such as button clicks, text input, and other actions. We will create a simple form where clicking a button displays a message using an ActionListener.
+
+
+### Lesson 5: Using Layout Managers in Swing
+#### Explanation
+Layout managers in Swing help you control the placement and size of components within a container. Swing provides several layout managers, such as FlowLayout, BorderLayout, GridLayout, and BoxLayout. In this lesson, we will explore these layout managers and how to use them to arrange components in a JPanel.
