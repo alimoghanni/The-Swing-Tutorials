@@ -25,3 +25,8 @@ In this lesson, you will learn how to handle events in Swing. Event handling all
 ### Lesson 5: Using Layout Managers in Swing
 #### Explanation
 Layout managers in Swing help you control the placement and size of components within a container. Swing provides several layout managers, such as FlowLayout, BorderLayout, GridLayout, and BoxLayout. In this lesson, we will explore these layout managers and how to use them to arrange components in a JPanel.
+
+
+### Lesson 6: Creating a Complex User Interface with Nested Layout Managers
+#### Explanation
+In this lesson, you will learn how to create a more complex user interface by nesting multiple layout managers. Nesting layout managers allows for greater flexibility and control over the arrangement of components. We will create a simple login form with nested panels using different layout managers.
