@@ -30,3 +30,8 @@ Layout managers in Swing help you control the placement and size of components w
 ### Lesson 6: Creating a Complex User Interface with Nested Layout Managers
 #### Explanation
 In this lesson, you will learn how to create a more complex user interface by nesting multiple layout managers. Nesting layout managers allows for greater flexibility and control over the arrangement of components. We will create a simple login form with nested panels using different layout managers.
+
+
+### Lesson 7: Implementing MVC Pattern in a Swing Application
+#### Explanation
+The Model-View-Controller (MVC) pattern is a design pattern that separates an application into three interconnected components: the Model, the View, and the Controller. This pattern helps in organizing code and making it more maintainable. In this lesson, we will implement a simple MVC application in Swing. The application will allow the user to input two numbers and display their sum.
