@@ -35,3 +35,8 @@ In this lesson, you will learn how to create a more complex user interface by ne
 ### Lesson 7: Implementing MVC Pattern in a Swing Application
 #### Explanation
 The Model-View-Controller (MVC) pattern is a design pattern that separates an application into three interconnected components: the Model, the View, and the Controller. This pattern helps in organizing code and making it more maintainable. In this lesson, we will implement a simple MVC application in Swing. The application will allow the user to input two numbers and display their sum.
+
+
+### Lesson 8: Connecting to a Database using JDBC
+#### Explanation
+Java Database Connectivity (JDBC) is a Java API that allows you to connect and execute queries with databases. In this lesson, we will cover how to set up a JDBC connection, perform basic database operations (CRUD - Create, Read, Update, Delete), and integrate these operations into a simple Swing application.
