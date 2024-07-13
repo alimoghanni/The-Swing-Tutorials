@@ -40,3 +40,7 @@ The Model-View-Controller (MVC) pattern is a design pattern that separates an ap
 ### Lesson 8: Connecting to a Database using JDBC
 #### Explanation
 Java Database Connectivity (JDBC) is a Java API that allows you to connect and execute queries with databases. In this lesson, we will cover how to set up a JDBC connection, perform basic database operations (CRUD - Create, Read, Update, Delete), and integrate these operations into a simple Swing application.
+
+### Lesson 9: Implementing Update and Delete Operations
+#### Explanation
+In this lesson, we will enhance our Swing application further by implementing update and delete functionalities for our user management system. This will complete the basic CRUD (Create, Read, Update, Delete) operations using Swing and JDBC.
