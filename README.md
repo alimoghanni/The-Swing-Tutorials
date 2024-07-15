@@ -44,3 +44,7 @@ Java Database Connectivity (JDBC) is a Java API that allows you to connect and e
 ### Lesson 9: Implementing Update and Delete Operations
 #### Explanation
 In this lesson, we will enhance our Swing application further by implementing update and delete functionalities for our user management system. This will complete the basic CRUD (Create, Read, Update, Delete) operations using Swing and JDBC.
+
+### Lesson 10: Adding Input Validation to User Management App
+#### Explanation
+In this lesson, let's focus on enhancing the user interface of our Swing application by adding validation for input fields. This will ensure that users cannot submit empty or invalid data when adding or updating users.
